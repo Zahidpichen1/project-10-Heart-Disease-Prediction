@@ -1,4 +1,4 @@
-# Consumer price prediction
+# Heart Disease Prediction
 
 ## Description
 A Regression type prediction model using *Random Forest Regression* algorithm. It uses accuracy score and classification report as the metric for prediction.
