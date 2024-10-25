@@ -30,6 +30,7 @@ A Regression type prediction model using *Random Forest Regression* algorithm. I
 5) Saved the Configurations
 6) Clicked build now
 
+
 #### Output
   ![7](https://github.com/user-attachments/assets/5b8514a3-a434-447a-8e95-7eefadd20c14)
 
@@ -45,4 +46,5 @@ A Regression type prediction model using *Random Forest Regression* algorithm. I
 
   
   ##### Docker Hub 
-  ![7 2](https://github.com/user-attachments/assets/a9c9ef1c-ad8f-4593-adc0-1149ea6d2942)
+  ![7 2](https://github.com/user-attachments/assets/7fd197f8-25a3-44d6-8ecc-927da685f11c)
+
